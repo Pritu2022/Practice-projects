@@ -1,1 +1,3 @@
 # Practice-projects
+
+some practices😎
